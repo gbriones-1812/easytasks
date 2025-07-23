@@ -1,4 +1,4 @@
 # easytasks
-Ejemplo para convertir un excel a Json utilizando librería XLSX.
+Ejemplos.
 
-Utiliza la librería XLSX (https://www.npmjs.com/package/xlsx)
+
