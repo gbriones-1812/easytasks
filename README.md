@@ -1,4 +1,4 @@
 # easytasks
-Ejemplos.
+Ejemplos de programación.
 
 
